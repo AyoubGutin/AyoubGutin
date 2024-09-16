@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##I am a first year data analyst degree apprentice, interested in learning new technolgy related to my field and hobbies. 
+## I am a first year data analyst degree apprentice, interested in learning new technolgy related to my field and hobbies. 
 
 **I have experience in:**
 - Python
