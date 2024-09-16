@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**AyoubGutin/AyoubGutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am a first year data analyst degree apprentice, interested in learning new technolgy related to my field and hobbies. 
 
-Here are some ideas to get you started:
+**I have experience in:**
+- Python
+- SQL
+- HTML/CSS
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find my portfolio and some projects in my repositories, enjoy!
+
+- Ayoub
