@@ -1,6 +1,4 @@
-## Data Analyst / Data Scientist
-
-## Data analyst degree apprentice
+## Data Analyst / Data Scientist Apprentice
 
 **I have experience in:**: Python, SQL, Azure Databricks
 
