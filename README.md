@@ -1,13 +1,11 @@
-# Hi there 👋
+## Data Analyst / Data Scientist
 
-## I am a first year data analyst degree apprentice, interested in learning new technolgy related to my field and hobbies. 
+## Data analyst degree apprentice
 
-**I have experience in:**
-- Python
-- SQL
-- HTML/CSS
-- Javascript
+**I have experience in:**: Python, SQL, Azure Databricks
 
-You can find my portfolio and some projects in my repositories, enjoy!
+**Academic Interests**: Machine learning, Agentic AI, Data visualisation and storytelling
 
--> Ayoub
+[Ayoub Gutin's Portfolio](https://ayoubgutin.github.io/)
+
+
