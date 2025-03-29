@@ -1,6 +1,6 @@
-## Data Analyst / Data Scientist Apprentice
+## Data Analyst Apprentice
 
-**I have experience in**: Python, SQL, Azure Databricks
+**I have experience in**: Python, SQL, Azure Databricks, Data Engineering
 
 **Academic Interests**: Machine learning, Agentic AI, Data visualisation and storytelling
 
